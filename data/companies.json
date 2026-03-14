@@ -1,0 +1,42 @@
+[
+    {
+        "name": "Google",
+        "careers_url": "https://careers.google.com/jobs/results/?category=ENGINEERING&employment_type=INTERN"
+    },
+    {
+        "name": "Microsoft",
+        "careers_url": "https://jobs.microsoft.com/us/en/search-results?keywords=intern"
+    },
+    {
+        "name": "Amazon",
+        "careers_url": "https://www.amazon.jobs/en/search?base_query=intern&loc_query=India"
+    },
+    {
+        "name": "IBM India",
+        "careers_url": "https://www.ibm.com/in-en/employment/#jobs?%23jobs=&job-search=intern"
+    },
+    {
+        "name": "Infosys",
+        "careers_url": "https://career.infosys.com/joblist"
+    },
+    {
+        "name": "TCS",
+        "careers_url": "https://www.tcs.com/careers/tcs-freshers"
+    },
+    {
+        "name": "Wipro",
+        "careers_url": "https://careers.wipro.com/careers-home/jobs?keyword=intern"
+    },
+    {
+        "name": "Flipkart",
+        "careers_url": "https://www.flipkartcareers.com/#!/joblist"
+    },
+    {
+        "name": "Swiggy",
+        "careers_url": "https://careers.swiggy.com/#careers"
+    },
+    {
+        "name": "Razorpay",
+        "careers_url": "https://razorpay.com/jobs/"
+    }
+]
