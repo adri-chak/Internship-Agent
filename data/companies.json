@@ -4,8 +4,10 @@
         "careers_url": "https://careers.google.com/jobs/results/?category=ENGINEERING&employment_type=INTERN"
     },
     {
+        
         "name": "Microsoft",
-        "careers_url": "https://jobs.microsoft.com/us/en/search-results?keywords=intern"
+        "careers_url": "https://careers.microsoft.com/v2/global/en/search?q=intern&l=en_us"
+        
     },
     {
         "name": "Amazon",
