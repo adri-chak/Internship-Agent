@@ -51,9 +51,9 @@ companies.json → Scraper → Change Detector → LLM Scorer (Groq)
                                                     ↓
                                              SQLite Database
                                                     ↓
-                                          Email Digest Engine
+                                             Email Digest Engine
                                                     ↓
-                                          Your Inbox 📧
+                                                Your Inbox 📧
 ```
 
 ---
