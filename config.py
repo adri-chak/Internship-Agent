@@ -1,10 +1,14 @@
-# This file holds all settings for our agent
+# config.py
+import os
+from dotenv import load_dotenv
+
+load_dotenv()
 
 # Your personal details
 YOUR_NAME = "Adrija"
 YOUR_EMAIL = "adrija.chakraborty2024@iem.edu.in"
 
-# Your skills - be honest, list what you actually know
+# Your skills
 YOUR_SKILLS = [
     "Python",
     "Machine Learning",
@@ -13,7 +17,7 @@ YOUR_SKILLS = [
     "Git"
 ]
 
-# Keywords you want to look for in job listings
+# Keywords to look for
 KEYWORDS = [
     "internship",
     "intern",
@@ -22,5 +26,8 @@ KEYWORDS = [
     "trainee"
 ]
 
-# How many top results you want emailed to you
+# How many results to email
 TOP_N_RESULTS = 6
+
+# API key loaded safely from .env
+GROQ_API_KEY = os.getenv("GROQ_API_KEY")
