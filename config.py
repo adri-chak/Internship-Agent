@@ -31,3 +31,6 @@ TOP_N_RESULTS = 6
 
 # API key loaded safely from .env
 GROQ_API_KEY = os.getenv("GROQ_API_KEY")
+GMAIL_ADDRESS = os.getenv("GMAIL_ADDRESS")
+GMAIL_APP_PASSWORD = os.getenv("GMAIL_APP_PASSWORD")
+RECIPIENT_EMAIL = os.getenv("RECIPIENT_EMAIL")
