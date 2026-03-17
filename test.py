@@ -1,8 +1,8 @@
 import json
 
-with open("data/hashes.json") as f:
-    hashes = json.load(f)
+with open('data/companies.json') as f:
+    companies = json.load(f)
 
-print(f"Agent is tracking {len(hashes)} companies:")
-for company, fingerprint in hashes.items():
-    print(f"  {company}: {fingerprint}")
+print(f"Total companies in list: {len(companies)}")
+for i, company in enumerate(companies, 1):
+    print(f"  {i}. {company['name']}")

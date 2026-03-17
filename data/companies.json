@@ -1,13 +1,11 @@
 [
     {
         "name": "Google",
-        "careers_url": "https://careers.google.com/jobs/results/?category=ENGINEERING&employment_type=INTERN"
+        "careers_url": "https://careers.google.com/jobs/results/?employment_type=INTERN"
     },
     {
-        
         "name": "Microsoft",
-        "careers_url": "https://careers.microsoft.com/v2/global/en/search?q=intern&l=en_us"
-        
+        "careers_url": "https://careers.microsoft.com/v2/global/en/search?q=intern"
     },
     {
         "name": "Amazon",
@@ -40,5 +38,125 @@
     {
         "name": "Razorpay",
         "careers_url": "https://razorpay.com/jobs/"
+    },
+    {
+        "name": "Deloitte",
+        "careers_url": "https://southasiacareers.deloitte.com/go/Deloitte-India/718244/"
+    },
+    {
+        "name": "JP Morgan Chase",
+        "careers_url": "https://careers.jpmorgan.com/global/en/students/programs?search=&tags=location__India"
+    },
+    {
+        "name": "Goldman Sachs",
+        "careers_url": "https://www.goldmansachs.com/careers/students/programs-and-internships"
+    },
+    {
+        "name": "Capgemini",
+        "careers_url": "https://www.capgemini.com/in-en/careers/"
+    },
+    {
+        "name": "Cognizant",
+        "careers_url": "https://careers.cognizant.com/india-en/"
+    },
+    {
+        "name": "LTI Mindtree",
+        "careers_url": "https://www.ltimindtree.com/careers/"
+    },
+    {
+        "name": "ITC Infotech",
+        "careers_url": "https://www.itcinfotech.com/careers/"
+    },
+    {
+        "name": "Accenture",
+        "careers_url": "https://www.accenture.com/in-en/careers/jobsearch?jk=intern&sb=1&vw=1&is_rj=0&ct=India"
+    },
+    {
+        "name": "HCL Tech",
+        "careers_url": "https://www.hcltech.com/careers/job-search?keywords=intern"
+    },
+    {
+        "name": "Tech Mahindra",
+        "careers_url": "https://careers.techmahindra.com/search/?q=intern"
+    },
+    {
+        "name": "Walmart",
+        "careers_url": "https://careers.walmart.com/results?q=intern&locationFacet=India"
+    },
+    {
+        "name": "Ola",
+        "careers_url": "https://ola.skillate.com/"
+    },
+    {
+        "name": "Uber",
+        "careers_url": "https://www.uber.com/in/en/about/careers/"
+    },
+    {
+        "name": "Samsung",
+        "careers_url": "https://samsung.com/in/aboutsamsung/careers/search/?country=India&keyword=intern"
+    },
+    {
+        "name": "eClerx",
+        "careers_url": "https://www.eclerx.com/careers/"
+    },
+    {
+        "name": "GlobalData",
+        "careers_url": "https://www.globaldata.com/careers/"
+    },
+    {
+        "name": "EY",
+        "careers_url": "https://careers.ey.com/ey/search/?q=intern&locationsearch=India"
+    },
+    {
+        "name": "Experis",
+        "careers_url": "https://www.experis.in/en/find-jobs"
+    },
+    {
+        "name": "Zensar",
+        "careers_url": "https://www.zensar.com/careers"
+    },
+    {
+        "name": "Paytm",
+        "careers_url": "https://jobs.lever.co/paytm"
+    },
+    {
+        "name": "Worley",
+        "careers_url": "https://careers.worley.com/global/en/search-results?keywords=intern"
+    },
+    {
+        "name": "Cisco",
+        "careers_url": "https://jobs.cisco.com/jobs/SearchJobs/intern?listFilterMode=1&locationLevel=country&location=India"
+    },
+    {
+        "name": "Netflix",
+        "careers_url": "https://jobs.netflix.com/search?location=India"
+    },
+    {
+        "name": "Brainware Technology",
+        "careers_url": "https://www.brainwaretechnology.com/career.php"
+    },
+    {
+        "name": "NTT Data",
+        "careers_url": "https://careers.nttdata.com/global/en/search-results?keywords=intern&location=India"
+    },
+    {
+        "name": "NAVSOFT",
+        "careers_url": "https://www.navsoft.in/careers"
+    },
+    {
+        "name": "SAP",
+        "careers_url": "https://jobs.sap.com/search/?q=intern&locationsearch=India"
+    },
+    {
+        "name": "Bosch",
+        "careers_url": "https://www.bosch.in/careers/your-career-at-bosch/job-search/?q=intern"
+    },
+    {
+        "name": "Celonis",
+        "careers_url": "https://www.celonis.com/careers/jobs/?search=intern"
+    },
+    {
+        "name": "Dynatrace",
+        "careers_url": "https://careers.dynatrace.com/jobs/?location=India&search=intern"
     }
 ]
