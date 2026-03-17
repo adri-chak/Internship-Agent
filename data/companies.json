@@ -73,19 +73,11 @@
     },
     {
         "name": "HCL Tech",
-        "careers_url": "https://www.hcltech.com/careers/job-search?keywords=intern"
-    },
-    {
-        "name": "Tech Mahindra",
-        "careers_url": "https://careers.techmahindra.com/search/?q=intern"
+        "careers_url": "https://www.hcltech.com/careers"
     },
     {
         "name": "Walmart",
         "careers_url": "https://careers.walmart.com/results?q=intern&locationFacet=India"
-    },
-    {
-        "name": "Ola",
-        "careers_url": "https://ola.skillate.com/"
     },
     {
         "name": "Uber",
@@ -120,8 +112,8 @@
         "careers_url": "https://jobs.lever.co/paytm"
     },
     {
-        "name": "Worley",
-        "careers_url": "https://careers.worley.com/global/en/search-results?keywords=intern"
+       "name": "Worley",
+       "careers_url": "https://www.worley.com/careers"
     },
     {
         "name": "Cisco",
@@ -132,12 +124,8 @@
         "careers_url": "https://jobs.netflix.com/search?location=India"
     },
     {
-        "name": "Brainware Technology",
-        "careers_url": "https://www.brainwaretechnology.com/career.php"
-    },
-    {
-        "name": "NTT Data",
-        "careers_url": "https://careers.nttdata.com/global/en/search-results?keywords=intern&location=India"
+    "name": "NTT Data",
+    "careers_url": "https://in.nttdata.com/en/careers"
     },
     {
         "name": "NAVSOFT",
@@ -158,5 +146,17 @@
     {
         "name": "Dynatrace",
         "careers_url": "https://careers.dynatrace.com/jobs/?location=India&search=intern"
+    },
+    {
+    "name": "Tech Mahindra",
+    "careers_url": "https://www.techmahindra.com/en-in/careers/"
+    },
+    {
+    "name": "Ola",
+    "careers_url": "https://www.olacabs.com/careers"
+    },
+    {
+    "name": "Zomato",
+    "careers_url": "https://www.zomato.com/careers"
     }
 ]
