@@ -11,10 +11,28 @@ YOUR_EMAIL = "adrija.chakraborty2024@iem.edu.in"
 # Your skills
 YOUR_SKILLS = [
     "Python",
+    "Web Development",
+    "Artificial Intelligence",
     "Machine Learning",
-    "Data Science",
+    "C Programming",
+    "Java",
+    "Object Oriented Programming",
+    "Data Structures and Algorithms",
     "SQL",
-    "Git"
+    "Git",
+    "Github",
+    "Web Scraping",
+    "REST APIs",
+    "Prompt Engineering",
+    "HTML",
+    "CSS",
+    "Problem Solving",
+    "Project Management",
+    "Data Science",
+    "Data Analytics",
+    "Data Visualization",
+    "Frontend",
+    "UI/UX"
 ]
 
 # Keywords to look for
